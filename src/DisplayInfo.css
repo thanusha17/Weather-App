@@ -1,0 +1,17 @@
+.cardComponent{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.cardComponent div{
+    margin-bottom : 15px;
+}
+
+Typography div{
+    font-size: 2rem;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
